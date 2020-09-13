@@ -10,4 +10,9 @@ hence does not contain beautiful UI/UX.
 5. Signout Screen
 
 ## Screenshots
-![SignUp Screen](/Screenshots/SignUp.jpeg) ![Track Screen](/Screenshots/TrackScreen.jpeg)
+![SignUp Screen](/Screenshots/SignUp.jpeg)
+![Track Screen](/Screenshots/TrackScreen.jpeg)
+![TrackList Screen](/Screenshots/TrackList.jpeg)
+![TrackStop Screen](/Screenshots/TrackStop.jpeg)
+![TrackDetail Screen](/Screenshots/TrackDetailScreen.jpeg)
+![Logout Screen](/Screenshots/Logout.jpeg)

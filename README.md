@@ -10,4 +10,4 @@ hence does not contain beautiful UI/UX.
 5. Signout Screen
 
 ## Screenshots
-![Login Screen](Screenshots/WhatsApp Image 2020-09-13 at 6.50.21 PM.jpeg)
+![Login Screen](/Screenshots/WhatsApp Image 2020-09-13 at 6.50.21 PM.jpeg)

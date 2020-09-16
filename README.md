@@ -10,9 +10,5 @@ hence does not contain beautiful UI/UX.
 5. Signout Screen
 
 ## Screenshots
-<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/SignUp.jpeg" width="200" title="SignUp Page">
-<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackList.jpeg" width="200" title="TrackList Page">
-<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackDetailScreen.jpeg" width="200" title="TrackDetailScreen Page">
-<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackScreen.jpeg" width="200" title="TrackScreen Page">
-<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackStop.jpeg" width="200" title="TrackStop Page">
-<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/Logout.jpeg" width="200" title="Logout Page">
+<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/SignUp.jpeg" width="200" title="SignUp Page"> <img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackList.jpeg" width="200" title="TrackList Page"> <img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackDetailScreen.jpeg" width="200" title="TrackDetailScreen Page"> <img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackScreen.jpeg" width="200" title="TrackScreen Page"> 
+<img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/TrackStop.jpeg" width="200" title="TrackStop Page"> <img src="https://github.com/Shitiz1708/Unexplored-App/blob/master/Screenshots/Logout.jpeg" width="200" title="Logout Page">

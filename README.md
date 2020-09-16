@@ -10,6 +10,7 @@ hence does not contain beautiful UI/UX.
 5. Signout Screen
 
 ## Screenshots
+<img src="https://github.com/shivumgrover/EazyCharge/blob/master/screenshots/a1.png" width="200" title="Login Page">
 ![SignUp Screen](/Screenshots/SignUp.jpeg)
 ![Track Screen](/Screenshots/TrackScreen.jpeg)
 ![TrackList Screen](/Screenshots/TrackList.jpeg)
